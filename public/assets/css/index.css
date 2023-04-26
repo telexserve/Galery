@@ -1,0 +1,12 @@
+.box {
+    background-color: whitesmoke;
+    width: 250px;
+    height: 175px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+#txt:hover {
+    color: dodgerblue;
+}
